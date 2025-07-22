@@ -51,7 +51,7 @@ Atinka Meds, a community pharmacy in Adenta, needed a custom solution to manage 
     - models/ # Data models (Drug, Customer, etc.)
     - managers/ # Business logic managers
     - services/ # File I/O storage layer
-    - report/ # (Optional) performance analysis
+    - report/ # performance analysis
   - data/ # Persistent data files
     - drugs.txt
     - suppliers.txt
