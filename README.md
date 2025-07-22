@@ -44,24 +44,22 @@ Atinka Meds, a community pharmacy in Adenta, needed a custom solution to manage 
 
 ## 📁 Project Structure
 
-PharmacyInventorySystem/
-│
-├── src/
-│ ├── cli/ # CLI and main launcher
-│ ├── models/ # Data models (Drug, Customer, etc.)
-│ ├── managers/ # Business logic managers
-│ ├── services/ # File I/O storage layer
-│ └── report/ # (Optional) performance analysis
-│
-├── data/ # Persistent data files
-│ ├── drugs.txt
-│ ├── suppliers.txt
-│ ├── customers.txt
-│ ├── purchases.txt
-│ ├── sales.txt
-│ └── PerformanceReport.txt
-│
-└── README.md
+```markdown
+- PharmacyInventorySystem/
+  - src/
+    - cli/ # CLI and main launcher
+    - models/ # Data models (Drug, Customer, etc.)
+    - managers/ # Business logic managers
+    - services/ # File I/O storage layer
+    - report/ # (Optional) performance analysis
+  - data/ # Persistent data files
+    - drugs.txt
+    - suppliers.txt
+    - customers.txt
+    - purchases.txt
+    - sales.txt
+    - PerformanceReport.txt
+  - README.md
 
 ---
 
@@ -90,15 +88,19 @@ PharmacyInventorySystem/
 
 ---
 
-## ✍️ Author
+## ✍️ Authors
 
-Benjamin Amonoo Wilberforce  
-University of Ghana – Department of Computer Science  
-Course: DCIT308 – Data Structures & Algorithms II  
-Semester: Second Semester, 2024/2025
+1. Benjamin Amonoo Wilberforce
+2. Derrick Boateng
+3. Fiawoyipe Leslie Elikem
+4. Zephanila Afia Opoku
+5. Baakum Saviour
+6. Sabadu Endurance Offeibea
+7. Stephanie Awurabena Dunyo
 
 ---
 
 ## ✅ License
 
 This project is developed solely for academic purposes. Not intended for production or commercial use.
+```
