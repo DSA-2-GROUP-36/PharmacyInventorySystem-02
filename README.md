@@ -57,8 +57,7 @@ Atinka Meds, a community pharmacy in Adenta, needed a custom solution to manage 
     - suppliers.txt
     - customers.txt
     - purchases.txt
-    - sales.txt
-    - PerformanceReport.txt
+    - sales_transaction.txt
   - README.md
 
 ---
