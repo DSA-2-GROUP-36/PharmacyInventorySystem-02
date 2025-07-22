@@ -59,6 +59,7 @@ Atinka Meds, a community pharmacy in Adenta, needed a custom solution to manage 
     - purchases.txt
     - sales_transaction.txt
   - README.md
+```
 
 ---
 
@@ -102,4 +103,7 @@ Atinka Meds, a community pharmacy in Adenta, needed a custom solution to manage 
 ## ✅ License
 
 This project is developed solely for academic purposes. Not intended for production or commercial use.
+
+```
+
 ```
